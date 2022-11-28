@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="henderson1@49.254.83.215:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="henderson1@49.254.83.215:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/henderson1/Repository/TimeGAN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
